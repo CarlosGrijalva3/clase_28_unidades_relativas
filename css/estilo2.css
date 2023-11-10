@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor{
+    width: 80%;
+    max-width: 1200px;
+}
+
+#cabecera{
+    font-size: 1em;
+    margin-bottom: .5em;
+}
+
+
+#logo{/* em */
+    width: 21.125em;
+}
+
+#logo2{/* % */
+    width: 50%;
+}
+
+#logo3{/* px */
+    width: 338px;
+}
+
+
+#menu{
+    margin-bottom: 6em;
+}
+
+#menu a{
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+    padding: 0px;
+    font-size: 3.5em;
+}
+
+#menu li a:hover{
+    color: #000;
+}
+
+#menu li a:visited{
+    color: #ff0000;
+}
+
+#contenido{
+    background: #4db300;
+    border: 2px solid #ff0000;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+.articulo h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    color: #c90000;
+}
+
+.articulo{
+    font-size: 1em;
+}
+
+
+
+
+
+
+
+
+
+
